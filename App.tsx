@@ -1,5 +1,20 @@
 import React from 'react';
-import {NextUIProvider} from "@nextui-org/react";
+import {
+  Card,
+  CardBody,
+  CardHeader,
+  Button,
+  Input,
+  Tabs,
+  Tab,
+  Avatar,
+  Chip,
+  Navbar,
+  NavbarBrand,
+  NavbarContent,
+  Listbox,
+  ListboxItem
+} from "@nextui-org/react";
 import Header from './components/layout/Header';
 import Sidebar from './components/navigation/Sidebar';
 import NavigationTabs from './components/navigation/NavigationTabs';
