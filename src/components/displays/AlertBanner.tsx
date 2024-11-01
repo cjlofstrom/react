@@ -18,4 +18,4 @@ const AlertBanner = ({ title, description, color = "primary" }) => {
   );
 };
 
-export default AlertBanner;
+export default AlertBanner; 
